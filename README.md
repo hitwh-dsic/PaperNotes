@@ -3,7 +3,6 @@
 This repository provides the guideline for newcomers to the DSIC. We list important conferences and journals in the storage field. Notes of some prominent and influential papers are also shared here for discussions. We hope that this repository will enable our researchers, students, and faculties to keep eye on the progress of academic frontiers in storage systems.
 
 ## Key Conferences
----
 
 ### Conferences
 
