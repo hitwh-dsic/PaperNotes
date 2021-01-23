@@ -12,6 +12,7 @@ This repository provides the guideline for newcomers to the DSIC. We list import
 - ICDCS [(ICDCS'19)](https://conferences.computer.org/icdcs/2019/#!/home)
 - MSST [(MSST'20)](https://storageconference.us/)
 - Systor [(Systor'20)](https://dl.acm.org/doi/proceedings/10.1145/3383669#issue-downloads)
+- SOSP [(SOSP'19)](https://sosp19.rcs.uwaterloo.ca/program.html) [(SOSP'17)](https://www.sigops.org/s/conferences/sosp/2017/program.html)
 
 ### Selected papers
 |  Date  | Venue | Title | Author | Institution | Slides | Area | Note |
